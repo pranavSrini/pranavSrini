@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
+
+I'm Pranav, a computer science graduate from UT Austin. I love building things and solving new problems.
+
+I'm currently working at startup that's changing the face of college education with LLMs. Outside of work, 
+I'm a rock music aficionado and movie buff.
+
+Checkout my work here: https://pranavsrini.github.io/Personal-Website/
+
+I'm best reached at srinivasan.pranav@utexas.edu
+
 
 <!--
 **pranavSrini/pranavSrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
