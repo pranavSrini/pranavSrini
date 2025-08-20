@@ -7,7 +7,7 @@ I'm a rock music aficionado and movie buff.
 
 Checkout my work here: https://pranavsrini.github.io/Personal-Website/
 
-I'm best reached at srinivasan.pranav@utexas.edu
+I'm best reached at pranavsrinivasan12@gmail.com
 
 
 <!--
